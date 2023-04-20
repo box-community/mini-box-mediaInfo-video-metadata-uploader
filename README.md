@@ -8,15 +8,22 @@ This script is based off a [larger project](https://github.com/box-community/box
 You will need to have [python](https://www.python.org/downloads/) installed on your machine. 
 
 ## Tutorial authentication
-This tutorial shows using client credentials authentication. You are not restricted to using this authentication type, but there is not code for using the other types in this repository. Find out about other kinds in the [developer documentation](https://developer.box.com/guides/authentication/)
+This tutorial shows using client credentials authentication. You are not restricted to using this authentication type, but there is not code for using the other types in this repository. Find out about other kinds in the [developer documentation](https://developer.box.com/guides/authentication/).
 
 ## Box setup steps
-INSERT MORE HERE
+Since this script creates a metadata template for you, you will not need to make one in Box; however, you will need to create a folder and upload a few mp4 files to process. It is recommended that you set this tutorial up in a Sandbox environment, as you will need admin privileges. Find more about sandboxes [here](https://support.box.com/hc/en-us/articles/360043697274-Managing-developer-sandboxes-for-Box-admins).
+
+1. Create a Box folder and make note of its folder id for a later step.
+2. Upload some .mp4 video files to process. If you don't have any, find some [here](https://www.pexels.com/search/videos/demo/).
+3. Create a new application in the [Box Developer Console](https://app.box.com/developers/console). Click Create new app > Custom App > Server Authentication(Client Credentials Grant) > Type in a name > Click Create App.
+4. Under the configuration tab, select App + Enterprise, followed by checking the boxes for Read/Write all files. Then, click Save Changes in the top right.
+5. Copy the client id of the application. Back in the Box Admin Console, follow the steps to [approve a custom application](https://developer.box.com/guides/authorization/custom-app-approval/).
+6. Back on the General Settings tab of the application you created in the Box Developer Console, you should now see an email that starts like AutomationUser_... in the Service Account Info section. Copy that email. Back in the main Box Web App, collaborate the service account into the folder you created in step 1. 
 
 ## Script configuration
 Clone the github repo and open it in a code editor - like [vscode](https://code.visualstudio.com/).
 ```
-git clone INSERT LINK
+git clone git@github.com:Smartoneinok/mini-box-mediaInfo-video-metadata-uploader.git
 code .
 ``` 
 
