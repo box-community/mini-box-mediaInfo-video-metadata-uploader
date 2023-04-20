@@ -27,7 +27,7 @@ git clone git@github.com:Smartoneinok/mini-box-mediaInfo-video-metadata-uploader
 code .
 ``` 
 
-In `src/config.py` add in your client id, client secret, enterprise id, and the name you wish to call the metadata template.
+Create a `src/config.py` file based on the example. Add in your client id, client secret, enterprise id, and the name you wish to call the metadata template.
 
 ```
 python3 -m venv env
