@@ -1,0 +1,282 @@
+{
+    "tracks": [
+        {
+            "track_type": "General",
+            "count": "335",
+            "count_of_stream_of_this_kind": "1",
+            "kind_of_stream": "General",
+            "other_kind_of_stream": [
+                "General"
+            ],
+            "stream_identifier": "0",
+            "count_of_video_streams": "1",
+            "count_of_audio_streams": "1",
+            "video_format_list": "AVC",
+            "video_format_withhint_list": "AVC",
+            "codecs_video": "AVC",
+            "audio_format_list": "AAC LC",
+            "audio_format_withhint_list": "AAC LC",
+            "audio_codecs": "AAC LC",
+            "complete_name": "/usr/src/app/tests/samples/Video/BigBuckBunny.mp4",
+            "folder_name": "/usr/src/app/tests/samples/Video",
+            "file_name": "BigBuckBunny.mp4",
+            "other_file_name": [
+                "BigBuckBunny"
+            ],
+            "file_extension": "mp4",
+            "format": "MPEG-4",
+            "other_format": [
+                "MPEG-4"
+            ],
+            "format_extensions_usually_used": "mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v",
+            "commercial_name": "MPEG-4",
+            "format_profile": "Base Media / Version 2",
+            "internet_media_type": "video/mp4",
+            "codec_id": "mp42",
+            "other_codec_id": [
+                "mp42 (isom/avc1/mp42)"
+            ],
+            "codec_id_url": "http://www.apple.com/quicktime/download/standalone.html",
+            "codecid_compatible": "isom/avc1/mp42",
+            "file_size": 158008374,
+            "other_file_size": [
+                "151 MiB",
+                "151 MiB",
+                "151 MiB",
+                "151 MiB",
+                "150.7 MiB"
+            ],
+            "duration": 596473,
+            "other_duration": [
+                "9 min 56 s",
+                "9 min 56 s 473 ms",
+                "9 min 56 s",
+                "00:09:56.473",
+                "00:09:56:11",
+                "00:09:56.473 (00:09:56:11)"
+            ],
+            "overall_bit_rate_mode": "VBR",
+            "other_overall_bit_rate_mode": [
+                "Variable"
+            ],
+            "overall_bit_rate": 2119236,
+            "other_overall_bit_rate": [
+                "2 119 kb/s"
+            ],
+            "frame_rate": "24.000",
+            "other_frame_rate": [
+                "24.000 FPS"
+            ],
+            "frame_count": "14315",
+            "stream_size": 179663,
+            "other_stream_size": [
+                "175 KiB (0%)",
+                "175 KiB",
+                "175 KiB",
+                "175 KiB",
+                "175.5 KiB",
+                "175 KiB (0%)"
+            ],
+            "proportion_of_this_stream": "0.00114",
+            "headersize": "179655",
+            "datasize": "157828719",
+            "footersize": "0",
+            "isstreamable": "Yes",
+            "encoded_date": "UTC 2010-01-10 08:29:06",
+            "tagged_date": "UTC 2010-01-10 08:29:06",
+            "file_last_modification_date": "UTC 2023-01-23 17:57:25",
+            "file_last_modification_date__local": "2023-01-23 17:57:25",
+            "gsst": "0",
+            "gstd": "596961",
+            "gssd": "BADC219C2HH1385162467077729",
+            "gshh": "r8---sn-o097zned.googlevideo.com"
+        },
+        {
+            "track_type": "Video",
+            "count": "375",
+            "count_of_stream_of_this_kind": "1",
+            "kind_of_stream": "Video",
+            "other_kind_of_stream": [
+                "Video"
+            ],
+            "stream_identifier": "0",
+            "streamorder": "1",
+            "track_id": 2,
+            "other_track_id": [
+                "2"
+            ],
+            "format": "AVC",
+            "other_format": [
+                "AVC"
+            ],
+            "format_info": "Advanced Video Codec",
+            "format_url": "http://developers.videolan.org/x264.html",
+            "commercial_name": "AVC",
+            "format_profile": "High@L3.1",
+            "format_settings": "CABAC / 3 Ref Frames",
+            "format_settings__cabac": "Yes",
+            "other_format_settings__cabac": [
+                "Yes"
+            ],
+            "format_settings__reframes": 3,
+            "other_format_settings__reframes": [
+                "3 frames"
+            ],
+            "format_settings__gop": "M=1, N=30",
+            "internet_media_type": "video/H264",
+            "codec_id": "avc1",
+            "codec_id_info": "Advanced Video Coding",
+            "duration": 596458,
+            "other_duration": [
+                "9 min 56 s",
+                "9 min 56 s 458 ms",
+                "9 min 56 s",
+                "00:09:56.458",
+                "00:09:56:11",
+                "00:09:56.458 (00:09:56:11)"
+            ],
+            "bit_rate": 1991288,
+            "other_bit_rate": [
+                "1 991 kb/s"
+            ],
+            "maximum_bit_rate": 5372792,
+            "other_maximum_bit_rate": [
+                "5 373 kb/s"
+            ],
+            "width": 1280,
+            "other_width": [
+                "1 280 pixels"
+            ],
+            "height": 720,
+            "other_height": [
+                "720 pixels"
+            ],
+            "sampled_width": "1280",
+            "sampled_height": "720",
+            "pixel_aspect_ratio": "1.000",
+            "display_aspect_ratio": "1.778",
+            "other_display_aspect_ratio": [
+                "16:9"
+            ],
+            "rotation": "0.000",
+            "frame_rate_mode": "CFR",
+            "other_frame_rate_mode": [
+                "Constant"
+            ],
+            "frame_rate": "24.000",
+            "other_frame_rate": [
+                "24.000 FPS"
+            ],
+            "frame_count": "14315",
+            "color_space": "YUV",
+            "chroma_subsampling": "4:2:0",
+            "other_chroma_subsampling": [
+                "4:2:0"
+            ],
+            "bit_depth": 8,
+            "other_bit_depth": [
+                "8 bits"
+            ],
+            "scan_type": "Progressive",
+            "other_scan_type": [
+                "Progressive"
+            ],
+            "bits__pixel_frame": "0.090",
+            "stream_size": 148465020,
+            "other_stream_size": [
+                "142 MiB (94%)",
+                "142 MiB",
+                "142 MiB",
+                "142 MiB",
+                "141.6 MiB",
+                "142 MiB (94%)"
+            ],
+            "proportion_of_this_stream": "0.93960",
+            "title": "(C) 2007 Google Inc. v08.13.2007.",
+            "encoded_date": "UTC 2010-01-10 08:29:06",
+            "tagged_date": "UTC 2010-01-10 08:29:20",
+            "codec_configuration_box": "avcC"
+        },
+        {
+            "track_type": "Audio",
+            "count": "277",
+            "count_of_stream_of_this_kind": "1",
+            "kind_of_stream": "Audio",
+            "other_kind_of_stream": [
+                "Audio"
+            ],
+            "stream_identifier": "0",
+            "streamorder": "0",
+            "track_id": 1,
+            "other_track_id": [
+                "1"
+            ],
+            "format": "AAC",
+            "other_format": [
+                "AAC LC"
+            ],
+            "format_info": "Advanced Audio Codec Low Complexity",
+            "commercial_name": "AAC",
+            "format_additionalfeatures": "LC",
+            "codec_id": "mp4a-40-2",
+            "duration": 596473,
+            "other_duration": [
+                "9 min 56 s",
+                "9 min 56 s 473 ms",
+                "9 min 56 s",
+                "00:09:56.473",
+                "00:09:57:17",
+                "00:09:56.473 (00:09:57:17)"
+            ],
+            "bit_rate_mode": "VBR",
+            "other_bit_rate_mode": [
+                "Variable"
+            ],
+            "bit_rate": 125488,
+            "other_bit_rate": [
+                "125 kb/s"
+            ],
+            "maximum_bit_rate": 169368,
+            "other_maximum_bit_rate": [
+                "169 kb/s"
+            ],
+            "channel_s": 2,
+            "other_channel_s": [
+                "2 channels"
+            ],
+            "channel_positions": "Front: L R",
+            "other_channel_positions": [
+                "2/0/0"
+            ],
+            "channel_layout": "L R",
+            "samples_per_frame": "1024",
+            "sampling_rate": 44100,
+            "other_sampling_rate": [
+                "44.1 kHz"
+            ],
+            "samples_count": "26304460",
+            "frame_rate": "43.066",
+            "other_frame_rate": [
+                "43.066 FPS (1024 SPF)"
+            ],
+            "frame_count": "25688",
+            "compression_mode": "Lossy",
+            "other_compression_mode": [
+                "Lossy"
+            ],
+            "stream_size": 9363691,
+            "other_stream_size": [
+                "8.93 MiB (6%)",
+                "9 MiB",
+                "8.9 MiB",
+                "8.93 MiB",
+                "8.930 MiB",
+                "8.93 MiB (6%)"
+            ],
+            "proportion_of_this_stream": "0.05926",
+            "title": "(C) 2007 Google Inc. v08.13.2007.",
+            "encoded_date": "UTC 2010-01-10 08:29:06",
+            "tagged_date": "UTC 2010-01-10 08:29:20"
+        }
+    ]
+}
