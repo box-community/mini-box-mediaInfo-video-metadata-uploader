@@ -14,6 +14,9 @@ options = "cm:"
 try:
     client = get_cc_client()
     # Parsing argument
+    me = client.user().get()
+    print(f"Logged in as {me.name}, {me.login}")
+
     arguments, values = getopt.getopt(argumentList, options)
     
     # checking each argument
