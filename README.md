@@ -6,6 +6,7 @@ width=40%;>
 This script is based off a [larger project](https://github.com/box-community/box-metadata-media) created by [barduinor](https://github.com/barduinor). Instead of using Docker or FastAPI, it lets you locally apply video metadata (duration, frame rate, etc) to all files in a specified folder. It uses the [MediaInfo](https://mediaarea.net/en/MediaInfo) python library to grab the video metadata based on a download URL taken from the Box API.
 
 You will need to have [python](https://www.python.org/downloads/) installed on your machine. 
+You will need to have [MediaInfo](https://mediaarea.net/en/MediaInfo) library installed in your system.
 
 ## Tutorial authentication
 This tutorial shows using client credentials authentication. You are not restricted to using this authentication type, but there is not code for using the other types in this repository. Find out about other kinds in the [developer documentation](https://developer.box.com/guides/authentication/).
